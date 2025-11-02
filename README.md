@@ -6,7 +6,6 @@
 To design, develop and deploy a web application for event registration.
 
 ## DESIGN STEPS:
-
 ### Step 1:
 Create a new frame.
 
@@ -59,7 +58,6 @@ Figma
 <p class="text-10"><span class="text-black">REGISTER</span></p>
 <p class="text-11"><span class="text-black">ON 20th november</span></p>
 </div>
-
 </body>
 </html>
 ```
@@ -283,7 +281,6 @@ DIGITAL ARTS
 
 SPRAY PAINTINGS</span></p>
 </div>
-
 </body>
 </html>
 ```
@@ -425,7 +422,6 @@ img {
 <div class="rectangle-10-19"></div>
 <p class="text-20"><span class="text-white">REGISTER</span></p>
 </div>
-
 </body>
 </html>
 ```
@@ -729,7 +725,6 @@ Saveethaartclub@gmail.com</span></p>
 egaerly waiting for your participation in 
 the art evnets</span></p>
 </div>
-
 </body>
 </html>
 ```
